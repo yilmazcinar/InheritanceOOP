@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\InheritancePracticeOOP\InheritancePracticeOOP\bin\Debug\net8.0\InheritancePracticeOOP.exe
+C:\Users\caplo\source\repos\InheritancePracticeOOP\InheritancePracticeOOP\bin\Debug\net8.0\InheritancePracticeOOP.deps.json
+C:\Users\caplo\source\repos\InheritancePracticeOOP\InheritancePracticeOOP\bin\Debug\net8.0\InheritancePracticeOOP.runtimeconfig.json
+C:\Users\caplo\source\repos\InheritancePracticeOOP\InheritancePracticeOOP\bin\Debug\net8.0\InheritancePracticeOOP.dll
+C:\Users\caplo\source\repos\InheritancePracticeOOP\InheritancePracticeOOP\bin\Debug\net8.0\InheritancePracticeOOP.pdb
+C:\Users\caplo\source\repos\InheritancePracticeOOP\InheritancePracticeOOP\obj\Debug\net8.0\InheritancePracticeOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\InheritancePracticeOOP\InheritancePracticeOOP\obj\Debug\net8.0\InheritancePracticeOOP.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\InheritancePracticeOOP\InheritancePracticeOOP\obj\Debug\net8.0\InheritancePracticeOOP.AssemblyInfo.cs
+C:\Users\caplo\source\repos\InheritancePracticeOOP\InheritancePracticeOOP\obj\Debug\net8.0\InheritancePracticeOOP.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\InheritancePracticeOOP\InheritancePracticeOOP\obj\Debug\net8.0\InheritancePracticeOOP.dll
+C:\Users\caplo\source\repos\InheritancePracticeOOP\InheritancePracticeOOP\obj\Debug\net8.0\refint\InheritancePracticeOOP.dll
+C:\Users\caplo\source\repos\InheritancePracticeOOP\InheritancePracticeOOP\obj\Debug\net8.0\InheritancePracticeOOP.pdb
+C:\Users\caplo\source\repos\InheritancePracticeOOP\InheritancePracticeOOP\obj\Debug\net8.0\InheritancePracticeOOP.genruntimeconfig.cache
+C:\Users\caplo\source\repos\InheritancePracticeOOP\InheritancePracticeOOP\obj\Debug\net8.0\ref\InheritancePracticeOOP.dll
